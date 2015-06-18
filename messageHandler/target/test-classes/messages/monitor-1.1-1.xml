@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<message mId="1" mName="sensorMessage1" protocol="monitor" version="1.1">
+<sensorNum byteNum="8" byteToData="org.whut.monitor.business.messageHandler.messageHandle.SensorNumberAnalyse.byteToData"
+           dataToByte="org.whut.monitor.business.messageHandler.messageHandle.SensorNumberAnalyse.dataToByte"/>
+<dataType byteNum="4" byteToData="org.whut.monitor.business.messageHandler.messageHandle.DataTypeAnalyse.byteToData"
+          dataToByte="org.whut.monitor.business.messageHandler.messageHandle.DataTypeAnalyse.dataToByte"/>
+<time byteNum="8" byteToData="org.whut.monitor.business.messageHandler.messageHandle.TimeAnalyse.byteToData"
+      dataToByte="org.whut.monitor.business.messageHandler.messageHandle.TimeAnalyse.dataToByte"/>
+<data byteNum="4" byteToData="org.whut.monitor.business.messageHandler.messageHandle.DataAnalyse.byteToData"
+      dataToByte="org.whut.monitor.business.messageHandler.messageHandle.DataAnalyse.dataToByte"/>
+</message>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/messageCommunication.iml" filepath="$PROJECT_DIR$/messageCommunication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/messageHandler/messageHandler.iml" filepath="$PROJECT_DIR$/messageHandler/messageHandler.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<message mId="1" mName="test1" protocol="message1" version="version1" classPath="handleClassPath">
+<head>
+    <applicaiton byteNum="4" byteToData="applicationByteToData" dataToByte="applcationByteToData"/>
+    <tenant byteNum="4" byteToData="tennantByteToData" dataToByte="tenantByteToData"/>
+    <area byteNum="4" byteToData="areaByteToData" dataToByte="areaByteToData"/>
+    <collectorNum byteNum="4" byteToData="collectorNumByteToData" dataToByte="collectorNumByteToData"/>
+</head>
+<body>
+    <sensorNum byteNum="4" byteToData="sensorNumByteToData" dataToByte="sensorNumDataToByte"/>
+    <dataType byteNum="4" byteToData="dataTypeByteToData" dataToByte="dataTypeDataToByte"/>
+    <time byteNum="8" byteToData="timeByteToData" dataToByte="lengthDataToByte"/>
+    <data>
+        <data1 byteNum="4" byteToData="data1ByteToData" dataToByte="data1DataToByte"/>
+        <data2 byteNum="4" byteToData="data2ByteToData" dataToByte="data2DataToByte"/>
+    </data>
+</body>
+</message>
